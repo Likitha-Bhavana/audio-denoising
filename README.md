@@ -4,7 +4,7 @@ This project contains a simple MATLAB script that performs audio denoising using
 
 ## 📁 Files
 
-- audio-denoising.m`: Main MATLAB script.
+- `audio-denoising.m`: Main MATLAB script.
 - `noisy.wav`: Sample noisy audio input.
 - `denoised_output.wav`: Output generated after filtering.
 - `README.md`: This file.
